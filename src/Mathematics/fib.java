@@ -1,4 +1,4 @@
-package Mathematics;
+// package Mathematics;
 
 import java.util.Scanner;
 
@@ -26,6 +26,7 @@ public class fib {
        Scanner sc = new Scanner(System.in);
        int n = sc.nextInt();
         System.out.println(o.fibonacci(n));
+        sc.close();
 
 
 

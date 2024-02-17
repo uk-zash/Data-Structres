@@ -1,4 +1,4 @@
-package Mathematics;
+ package Mathematics;
 
 public class count_digits {
 

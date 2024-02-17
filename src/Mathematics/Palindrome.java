@@ -1,4 +1,4 @@
-package Mathematics;
+// package Mathematics;
 
 public class Palindrome {
     boolean isPal(int n){
